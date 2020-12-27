@@ -1,0 +1,49 @@
+Source	Target	Count
+Cct6a	binding of sperm to zona pellucida	4
+Vdac2	binding of sperm to zona pellucida	4
+Smcp	binding of sperm to zona pellucida	4
+Clgn	binding of sperm to zona pellucida	4
+Cct6a	sperm-egg recognition	4
+Vdac2	sperm-egg recognition	4
+Smcp	sperm-egg recognition	4
+Clgn	sperm-egg recognition	4
+Cct6a	cell-cell recognition	4
+Vdac2	cell-cell recognition	4
+Smcp	cell-cell recognition	4
+Clgn	cell-cell recognition	4
+Cct6a	cell recognition	4
+Vdac2	cell recognition	4
+Smcp	cell recognition	4
+Clgn	cell recognition	4
+Cct6a	single fertilization	4
+Vdac2	single fertilization	4
+Smcp	single fertilization	4
+Clgn	single fertilization	4
+Cct6a	protein folding	4
+Hspa2	protein folding	4
+Clgn	protein folding	4
+Hspa4l	protein folding	4
+Cct6a	fertilization	4
+Vdac2	fertilization	4
+Smcp	fertilization	4
+Clgn	fertilization	4
+Hspa2	response to unfolded protein	3
+Clgn	response to unfolded protein	3
+Hspa4l	response to unfolded protein	3
+Gtsf1	spermatogenesis	5
+Rad23b	spermatogenesis	5
+Hspa2	spermatogenesis	5
+Clgn	spermatogenesis	5
+Tdrd6	spermatogenesis	5
+Gtsf1	male gamete generation	5
+Rad23b	male gamete generation	5
+Hspa2	male gamete generation	5
+Clgn	male gamete generation	5
+Tdrd6	male gamete generation	5
+Hspa2	response to topologically incorrect protein	3
+Clgn	response to topologically incorrect protein	3
+Hspa4l	response to topologically incorrect protein	3
+Slc25a1	mitochondrial citrate transmembrane transport	1
+Slc25a1	tricarboxylic acid transmembrane transport	1
+Aldh1a2	retinoic acid receptor signaling pathway involved in somitogenesis	1
+Slc25a1	mitochondrial tricarboxylic acid transmembrane transport	1

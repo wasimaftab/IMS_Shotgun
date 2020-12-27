@@ -1,0 +1,7 @@
+Description	p_adjust	Count	Mapped_Node_Attr
+Androgen biosynthesis	0.00315515554999814	2	25
+Metabolism of steroid hormones	0.0104189093789436	2	25
+Post-translational modification: synthesis of GPI-anchored proteins	0.0275302147735504	2	25
+Choline catabolism	0.0396647223690396	1	15
+Metabolism of steroids	0.0396647223690396	2	25
+Urea cycle	0.0444581356839844	1	15

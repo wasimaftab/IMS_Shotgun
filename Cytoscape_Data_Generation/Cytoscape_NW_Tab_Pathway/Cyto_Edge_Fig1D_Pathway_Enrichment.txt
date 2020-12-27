@@ -1,0 +1,535 @@
+Source	Target	Edge_Attr	Mapped_Edge_Attr
+Extracellular matrix organization	Degradation of the extracellular matrix	15	4
+Extracellular matrix organization	ECM proteoglycans	9	2.71428571428571
+Extracellular matrix organization	Integrin cell surface interactions	9	2.71428571428571
+Extracellular matrix organization	Keratan sulfate degradation	1	1
+Extracellular matrix organization	Neutrophil degranulation	4	1.64285714285714
+Extracellular matrix organization	Collagen degradation	7	2.28571428571429
+Extracellular matrix organization	Collagen formation	8	2.5
+Extracellular matrix organization	Assembly of collagen fibrils and other multimeric structures	7	2.28571428571429
+Extracellular matrix organization	Glycosaminoglycan metabolism	4	1.64285714285714
+Extracellular matrix organization	Laminin interactions	5	1.85714285714286
+Extracellular matrix organization	MET activates PTK2 signaling	5	1.85714285714286
+Extracellular matrix organization	CS/DS degradation	2	1.21428571428571
+Extracellular matrix organization	Collagen biosynthesis and modifying enzymes	6	2.07142857142857
+Extracellular matrix organization	Keratan sulfate/keratin metabolism	1	1
+Extracellular matrix organization	MET promotes cell motility	5	1.85714285714286
+Extracellular matrix organization	Collagen chain trimerization	5	1.85714285714286
+Extracellular matrix organization	Non-integrin membrane-ECM interactions	5	1.85714285714286
+Extracellular matrix organization	Post-translational protein phosphorylation	2	1.21428571428571
+Extracellular matrix organization	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	2	1.21428571428571
+Extracellular matrix organization	Chondroitin sulfate/dermatan sulfate metabolism	3	1.42857142857143
+Extracellular matrix organization	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Extracellular matrix organization	Trafficking and processing of endosomal TLR	2	1.21428571428571
+Extracellular matrix organization	Plasma lipoprotein assembly, remodeling, and clearance	1	1
+Extracellular matrix organization	Platelet Aggregation (Plug Formation)	3	1.42857142857143
+Extracellular matrix organization	Regulation of Complement cascade	1	1
+Extracellular matrix organization	Signaling by MET	5	1.85714285714286
+Extracellular matrix organization	Metabolism of carbohydrates	4	1.64285714285714
+Extracellular matrix organization	Complement cascade	1	1
+Extracellular matrix organization	Heparan sulfate/heparin (HS-GAG) metabolism	3	1.42857142857143
+Extracellular matrix organization	A tetrasaccharide linker sequence is required for GAG synthesis	3	1.42857142857143
+Extracellular matrix organization	Platelet activation, signaling and aggregation	4	1.64285714285714
+Extracellular matrix organization	Keratan sulfate biosynthesis	1	1
+Extracellular matrix organization	MHC class II antigen presentation	3	1.42857142857143
+Extracellular matrix organization	Cell surface interactions at the vascular wall	3	1.42857142857143
+Extracellular matrix organization	Dermatan sulfate biosynthesis	2	1.21428571428571
+Extracellular matrix organization	GPVI-mediated activation cascade	2	1.21428571428571
+Extracellular matrix organization	GP1b-IX-V activation signalling	2	1.21428571428571
+Extracellular matrix organization	Anchoring fibril formation	2	1.21428571428571
+Extracellular matrix organization	Retinoid metabolism and transport	1	1
+Extracellular matrix organization	Metabolism of Angiotensinogen to Angiotensins	1	1
+Extracellular matrix organization	Metabolism of fat-soluble vitamins	1	1
+Extracellular matrix organization	Crosslinking of collagen fibrils	2	1.21428571428571
+Extracellular matrix organization	Syndecan interactions	2	1.21428571428571
+Extracellular matrix organization	Chondroitin sulfate biosynthesis	2	1.21428571428571
+Extracellular matrix organization	NCAM1 interactions	2	1.21428571428571
+Extracellular matrix organization	Signaling by PDGF	3	1.42857142857143
+Extracellular matrix organization	HS-GAG degradation	1	1
+Degradation of the extracellular matrix	ECM proteoglycans	7	2.28571428571429
+Degradation of the extracellular matrix	Integrin cell surface interactions	6	2.07142857142857
+Degradation of the extracellular matrix	Neutrophil degranulation	4	1.64285714285714
+Degradation of the extracellular matrix	Collagen degradation	7	2.28571428571429
+Degradation of the extracellular matrix	Collagen formation	7	2.28571428571429
+Degradation of the extracellular matrix	Assembly of collagen fibrils and other multimeric structures	7	2.28571428571429
+Degradation of the extracellular matrix	Glycosaminoglycan metabolism	2	1.21428571428571
+Degradation of the extracellular matrix	Laminin interactions	2	1.21428571428571
+Degradation of the extracellular matrix	MET activates PTK2 signaling	3	1.42857142857143
+Degradation of the extracellular matrix	CS/DS degradation	1	1
+Degradation of the extracellular matrix	Collagen biosynthesis and modifying enzymes	5	1.85714285714286
+Degradation of the extracellular matrix	MET promotes cell motility	3	1.42857142857143
+Degradation of the extracellular matrix	Collagen chain trimerization	5	1.85714285714286
+Degradation of the extracellular matrix	Non-integrin membrane-ECM interactions	4	1.64285714285714
+Degradation of the extracellular matrix	Post-translational protein phosphorylation	1	1
+Degradation of the extracellular matrix	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	1	1
+Degradation of the extracellular matrix	Chondroitin sulfate/dermatan sulfate metabolism	2	1.21428571428571
+Degradation of the extracellular matrix	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Degradation of the extracellular matrix	Trafficking and processing of endosomal TLR	2	1.21428571428571
+Degradation of the extracellular matrix	Plasma lipoprotein assembly, remodeling, and clearance	1	1
+Degradation of the extracellular matrix	Platelet Aggregation (Plug Formation)	3	1.42857142857143
+Degradation of the extracellular matrix	Signaling by MET	3	1.42857142857143
+Degradation of the extracellular matrix	Metabolism of carbohydrates	2	1.21428571428571
+Degradation of the extracellular matrix	Heparan sulfate/heparin (HS-GAG) metabolism	2	1.21428571428571
+Degradation of the extracellular matrix	A tetrasaccharide linker sequence is required for GAG synthesis	2	1.21428571428571
+Degradation of the extracellular matrix	Platelet activation, signaling and aggregation	4	1.64285714285714
+Degradation of the extracellular matrix	MHC class II antigen presentation	3	1.42857142857143
+Degradation of the extracellular matrix	Cell surface interactions at the vascular wall	3	1.42857142857143
+Degradation of the extracellular matrix	Dermatan sulfate biosynthesis	1	1
+Degradation of the extracellular matrix	GPVI-mediated activation cascade	2	1.21428571428571
+Degradation of the extracellular matrix	GP1b-IX-V activation signalling	2	1.21428571428571
+Degradation of the extracellular matrix	Anchoring fibril formation	2	1.21428571428571
+Degradation of the extracellular matrix	Retinoid metabolism and transport	1	1
+Degradation of the extracellular matrix	Metabolism of Angiotensinogen to Angiotensins	1	1
+Degradation of the extracellular matrix	Metabolism of fat-soluble vitamins	1	1
+Degradation of the extracellular matrix	Crosslinking of collagen fibrils	2	1.21428571428571
+Degradation of the extracellular matrix	Syndecan interactions	1	1
+Degradation of the extracellular matrix	Chondroitin sulfate biosynthesis	1	1
+Degradation of the extracellular matrix	NCAM1 interactions	2	1.21428571428571
+Degradation of the extracellular matrix	Signaling by PDGF	3	1.42857142857143
+Degradation of the extracellular matrix	HS-GAG degradation	1	1
+ECM proteoglycans	Integrin cell surface interactions	7	2.28571428571429
+ECM proteoglycans	Collagen degradation	4	1.64285714285714
+ECM proteoglycans	Collagen formation	4	1.64285714285714
+ECM proteoglycans	Assembly of collagen fibrils and other multimeric structures	4	1.64285714285714
+ECM proteoglycans	Glycosaminoglycan metabolism	3	1.42857142857143
+ECM proteoglycans	Laminin interactions	1	1
+ECM proteoglycans	MET activates PTK2 signaling	3	1.42857142857143
+ECM proteoglycans	CS/DS degradation	2	1.21428571428571
+ECM proteoglycans	Collagen biosynthesis and modifying enzymes	4	1.64285714285714
+ECM proteoglycans	MET promotes cell motility	3	1.42857142857143
+ECM proteoglycans	Collagen chain trimerization	4	1.64285714285714
+ECM proteoglycans	Non-integrin membrane-ECM interactions	5	1.85714285714286
+ECM proteoglycans	Post-translational protein phosphorylation	1	1
+ECM proteoglycans	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	1	1
+ECM proteoglycans	Chondroitin sulfate/dermatan sulfate metabolism	3	1.42857142857143
+ECM proteoglycans	Platelet Adhesion to exposed collagen	2	1.21428571428571
+ECM proteoglycans	Platelet Aggregation (Plug Formation)	3	1.42857142857143
+ECM proteoglycans	Regulation of Complement cascade	1	1
+ECM proteoglycans	Signaling by MET	3	1.42857142857143
+ECM proteoglycans	Metabolism of carbohydrates	3	1.42857142857143
+ECM proteoglycans	Complement cascade	1	1
+ECM proteoglycans	Heparan sulfate/heparin (HS-GAG) metabolism	3	1.42857142857143
+ECM proteoglycans	A tetrasaccharide linker sequence is required for GAG synthesis	3	1.42857142857143
+ECM proteoglycans	Platelet activation, signaling and aggregation	3	1.42857142857143
+ECM proteoglycans	Cell surface interactions at the vascular wall	3	1.42857142857143
+ECM proteoglycans	Dermatan sulfate biosynthesis	2	1.21428571428571
+ECM proteoglycans	GPVI-mediated activation cascade	2	1.21428571428571
+ECM proteoglycans	GP1b-IX-V activation signalling	2	1.21428571428571
+ECM proteoglycans	Anchoring fibril formation	2	1.21428571428571
+ECM proteoglycans	Retinoid metabolism and transport	1	1
+ECM proteoglycans	Metabolism of fat-soluble vitamins	1	1
+ECM proteoglycans	Crosslinking of collagen fibrils	2	1.21428571428571
+ECM proteoglycans	Syndecan interactions	2	1.21428571428571
+ECM proteoglycans	Chondroitin sulfate biosynthesis	2	1.21428571428571
+ECM proteoglycans	NCAM1 interactions	2	1.21428571428571
+ECM proteoglycans	Signaling by PDGF	2	1.21428571428571
+ECM proteoglycans	HS-GAG degradation	1	1
+Integrin cell surface interactions	Keratan sulfate degradation	1	1
+Integrin cell surface interactions	Collagen degradation	4	1.64285714285714
+Integrin cell surface interactions	Collagen formation	4	1.64285714285714
+Integrin cell surface interactions	Assembly of collagen fibrils and other multimeric structures	4	1.64285714285714
+Integrin cell surface interactions	Glycosaminoglycan metabolism	2	1.21428571428571
+Integrin cell surface interactions	Laminin interactions	1	1
+Integrin cell surface interactions	MET activates PTK2 signaling	3	1.42857142857143
+Integrin cell surface interactions	Collagen biosynthesis and modifying enzymes	4	1.64285714285714
+Integrin cell surface interactions	Keratan sulfate/keratin metabolism	1	1
+Integrin cell surface interactions	MET promotes cell motility	3	1.42857142857143
+Integrin cell surface interactions	Collagen chain trimerization	4	1.64285714285714
+Integrin cell surface interactions	Non-integrin membrane-ECM interactions	5	1.85714285714286
+Integrin cell surface interactions	Post-translational protein phosphorylation	1	1
+Integrin cell surface interactions	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	1	1
+Integrin cell surface interactions	Chondroitin sulfate/dermatan sulfate metabolism	1	1
+Integrin cell surface interactions	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Integrin cell surface interactions	Platelet Aggregation (Plug Formation)	3	1.42857142857143
+Integrin cell surface interactions	Regulation of Complement cascade	1	1
+Integrin cell surface interactions	Signaling by MET	3	1.42857142857143
+Integrin cell surface interactions	Metabolism of carbohydrates	2	1.21428571428571
+Integrin cell surface interactions	Complement cascade	1	1
+Integrin cell surface interactions	Heparan sulfate/heparin (HS-GAG) metabolism	1	1
+Integrin cell surface interactions	A tetrasaccharide linker sequence is required for GAG synthesis	1	1
+Integrin cell surface interactions	Platelet activation, signaling and aggregation	3	1.42857142857143
+Integrin cell surface interactions	Keratan sulfate biosynthesis	1	1
+Integrin cell surface interactions	Cell surface interactions at the vascular wall	3	1.42857142857143
+Integrin cell surface interactions	GPVI-mediated activation cascade	2	1.21428571428571
+Integrin cell surface interactions	GP1b-IX-V activation signalling	2	1.21428571428571
+Integrin cell surface interactions	Anchoring fibril formation	2	1.21428571428571
+Integrin cell surface interactions	Retinoid metabolism and transport	1	1
+Integrin cell surface interactions	Metabolism of fat-soluble vitamins	1	1
+Integrin cell surface interactions	Crosslinking of collagen fibrils	2	1.21428571428571
+Integrin cell surface interactions	Syndecan interactions	2	1.21428571428571
+Integrin cell surface interactions	NCAM1 interactions	2	1.21428571428571
+Integrin cell surface interactions	Signaling by PDGF	2	1.21428571428571
+Integrin cell surface interactions	HS-GAG degradation	1	1
+Keratan sulfate degradation	Neutrophil degranulation	1	1
+Keratan sulfate degradation	Glycosaminoglycan metabolism	5	1.85714285714286
+Keratan sulfate degradation	CS/DS degradation	2	1.21428571428571
+Keratan sulfate degradation	Keratan sulfate/keratin metabolism	5	1.85714285714286
+Keratan sulfate degradation	Glycosphingolipid metabolism	2	1.21428571428571
+Keratan sulfate degradation	Chondroitin sulfate/dermatan sulfate metabolism	2	1.21428571428571
+Keratan sulfate degradation	Hyaluronan uptake and degradation	2	1.21428571428571
+Keratan sulfate degradation	Hyaluronan metabolism	2	1.21428571428571
+Keratan sulfate degradation	Metabolism of carbohydrates	5	1.85714285714286
+Keratan sulfate degradation	Sphingolipid metabolism	2	1.21428571428571
+Keratan sulfate degradation	Keratan sulfate biosynthesis	3	1.42857142857143
+Neutrophil degranulation	Collagen degradation	2	1.21428571428571
+Neutrophil degranulation	Collagen formation	2	1.21428571428571
+Neutrophil degranulation	Assembly of collagen fibrils and other multimeric structures	2	1.21428571428571
+Neutrophil degranulation	Glycosaminoglycan metabolism	2	1.21428571428571
+Neutrophil degranulation	CS/DS degradation	1	1
+Neutrophil degranulation	Keratan sulfate/keratin metabolism	1	1
+Neutrophil degranulation	Glycosphingolipid metabolism	3	1.42857142857143
+Neutrophil degranulation	Chondroitin sulfate/dermatan sulfate metabolism	1	1
+Neutrophil degranulation	Platelet Adhesion to exposed collagen	1	1
+Neutrophil degranulation	Plasma lipoprotein clearance	1	1
+Neutrophil degranulation	Trafficking and processing of endosomal TLR	2	1.21428571428571
+Neutrophil degranulation	Hyaluronan uptake and degradation	2	1.21428571428571
+Neutrophil degranulation	Plasma lipoprotein assembly, remodeling, and clearance	1	1
+Neutrophil degranulation	Hyaluronan metabolism	2	1.21428571428571
+Neutrophil degranulation	Metabolism of carbohydrates	2	1.21428571428571
+Neutrophil degranulation	Sphingolipid metabolism	3	1.42857142857143
+Neutrophil degranulation	Heparan sulfate/heparin (HS-GAG) metabolism	1	1
+Neutrophil degranulation	Platelet activation, signaling and aggregation	2	1.21428571428571
+Neutrophil degranulation	MHC class II antigen presentation	4	1.64285714285714
+Neutrophil degranulation	Cell surface interactions at the vascular wall	1	1
+Neutrophil degranulation	GPVI-mediated activation cascade	1	1
+Neutrophil degranulation	Triglyceride catabolism	1	1
+Neutrophil degranulation	Metabolism of Angiotensinogen to Angiotensins	2	1.21428571428571
+Neutrophil degranulation	LDL clearance	1	1
+Neutrophil degranulation	HS-GAG degradation	1	1
+Collagen degradation	Collagen formation	6	2.07142857142857
+Collagen degradation	Assembly of collagen fibrils and other multimeric structures	6	2.07142857142857
+Collagen degradation	MET activates PTK2 signaling	2	1.21428571428571
+Collagen degradation	Collagen biosynthesis and modifying enzymes	5	1.85714285714286
+Collagen degradation	MET promotes cell motility	2	1.21428571428571
+Collagen degradation	Collagen chain trimerization	5	1.85714285714286
+Collagen degradation	Non-integrin membrane-ECM interactions	2	1.21428571428571
+Collagen degradation	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Collagen degradation	Trafficking and processing of endosomal TLR	1	1
+Collagen degradation	Platelet Aggregation (Plug Formation)	2	1.21428571428571
+Collagen degradation	Signaling by MET	2	1.21428571428571
+Collagen degradation	Platelet activation, signaling and aggregation	2	1.21428571428571
+Collagen degradation	MHC class II antigen presentation	2	1.21428571428571
+Collagen degradation	Cell surface interactions at the vascular wall	2	1.21428571428571
+Collagen degradation	GPVI-mediated activation cascade	2	1.21428571428571
+Collagen degradation	GP1b-IX-V activation signalling	2	1.21428571428571
+Collagen degradation	Anchoring fibril formation	2	1.21428571428571
+Collagen degradation	Metabolism of Angiotensinogen to Angiotensins	1	1
+Collagen degradation	Crosslinking of collagen fibrils	2	1.21428571428571
+Collagen degradation	NCAM1 interactions	2	1.21428571428571
+Collagen degradation	Signaling by PDGF	2	1.21428571428571
+Collagen formation	Assembly of collagen fibrils and other multimeric structures	7	2.28571428571429
+Collagen formation	MET activates PTK2 signaling	2	1.21428571428571
+Collagen formation	Collagen biosynthesis and modifying enzymes	6	2.07142857142857
+Collagen formation	MET promotes cell motility	2	1.21428571428571
+Collagen formation	Collagen chain trimerization	5	1.85714285714286
+Collagen formation	Non-integrin membrane-ECM interactions	2	1.21428571428571
+Collagen formation	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Collagen formation	Trafficking and processing of endosomal TLR	2	1.21428571428571
+Collagen formation	Platelet Aggregation (Plug Formation)	2	1.21428571428571
+Collagen formation	Signaling by MET	2	1.21428571428571
+Collagen formation	Platelet activation, signaling and aggregation	2	1.21428571428571
+Collagen formation	MHC class II antigen presentation	2	1.21428571428571
+Collagen formation	Cell surface interactions at the vascular wall	2	1.21428571428571
+Collagen formation	GPVI-mediated activation cascade	2	1.21428571428571
+Collagen formation	GP1b-IX-V activation signalling	2	1.21428571428571
+Collagen formation	Anchoring fibril formation	2	1.21428571428571
+Collagen formation	Crosslinking of collagen fibrils	2	1.21428571428571
+Collagen formation	NCAM1 interactions	2	1.21428571428571
+Collagen formation	Signaling by PDGF	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	MET activates PTK2 signaling	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Collagen biosynthesis and modifying enzymes	5	1.85714285714286
+Assembly of collagen fibrils and other multimeric structures	MET promotes cell motility	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Collagen chain trimerization	5	1.85714285714286
+Assembly of collagen fibrils and other multimeric structures	Non-integrin membrane-ECM interactions	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Trafficking and processing of endosomal TLR	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Platelet Aggregation (Plug Formation)	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Signaling by MET	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Platelet activation, signaling and aggregation	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	MHC class II antigen presentation	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Cell surface interactions at the vascular wall	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	GPVI-mediated activation cascade	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	GP1b-IX-V activation signalling	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Anchoring fibril formation	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Crosslinking of collagen fibrils	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	NCAM1 interactions	2	1.21428571428571
+Assembly of collagen fibrils and other multimeric structures	Signaling by PDGF	2	1.21428571428571
+Glycosaminoglycan metabolism	Laminin interactions	1	1
+Glycosaminoglycan metabolism	CS/DS degradation	4	1.64285714285714
+Glycosaminoglycan metabolism	Keratan sulfate/keratin metabolism	5	1.85714285714286
+Glycosaminoglycan metabolism	Non-integrin membrane-ECM interactions	1	1
+Glycosaminoglycan metabolism	Glycosphingolipid metabolism	2	1.21428571428571
+Glycosaminoglycan metabolism	Chondroitin sulfate/dermatan sulfate metabolism	5	1.85714285714286
+Glycosaminoglycan metabolism	Hyaluronan uptake and degradation	3	1.42857142857143
+Glycosaminoglycan metabolism	Hyaluronan metabolism	3	1.42857142857143
+Glycosaminoglycan metabolism	Metabolism of carbohydrates	9	2.71428571428571
+Glycosaminoglycan metabolism	Sphingolipid metabolism	2	1.21428571428571
+Glycosaminoglycan metabolism	Heparan sulfate/heparin (HS-GAG) metabolism	4	1.64285714285714
+Glycosaminoglycan metabolism	A tetrasaccharide linker sequence is required for GAG synthesis	3	1.42857142857143
+Glycosaminoglycan metabolism	Keratan sulfate biosynthesis	3	1.42857142857143
+Glycosaminoglycan metabolism	Dermatan sulfate biosynthesis	2	1.21428571428571
+Glycosaminoglycan metabolism	Retinoid metabolism and transport	1	1
+Glycosaminoglycan metabolism	Metabolism of fat-soluble vitamins	1	1
+Glycosaminoglycan metabolism	Chondroitin sulfate biosynthesis	2	1.21428571428571
+Glycosaminoglycan metabolism	HS-GAG degradation	2	1.21428571428571
+Laminin interactions	MET activates PTK2 signaling	2	1.21428571428571
+Laminin interactions	MET promotes cell motility	2	1.21428571428571
+Laminin interactions	Non-integrin membrane-ECM interactions	1	1
+Laminin interactions	Post-translational protein phosphorylation	1	1
+Laminin interactions	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	1	1
+Laminin interactions	Chondroitin sulfate/dermatan sulfate metabolism	1	1
+Laminin interactions	Signaling by MET	2	1.21428571428571
+Laminin interactions	Metabolism of carbohydrates	1	1
+Laminin interactions	Heparan sulfate/heparin (HS-GAG) metabolism	1	1
+Laminin interactions	A tetrasaccharide linker sequence is required for GAG synthesis	1	1
+Laminin interactions	Retinoid metabolism and transport	1	1
+Laminin interactions	Metabolism of fat-soluble vitamins	1	1
+Laminin interactions	HS-GAG degradation	1	1
+MET activates PTK2 signaling	Collagen biosynthesis and modifying enzymes	2	1.21428571428571
+MET activates PTK2 signaling	MET promotes cell motility	5	1.85714285714286
+MET activates PTK2 signaling	Collagen chain trimerization	2	1.21428571428571
+MET activates PTK2 signaling	Non-integrin membrane-ECM interactions	3	1.42857142857143
+MET activates PTK2 signaling	Post-translational protein phosphorylation	2	1.21428571428571
+MET activates PTK2 signaling	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	2	1.21428571428571
+MET activates PTK2 signaling	Platelet Adhesion to exposed collagen	2	1.21428571428571
+MET activates PTK2 signaling	Platelet Aggregation (Plug Formation)	3	1.42857142857143
+MET activates PTK2 signaling	Signaling by MET	5	1.85714285714286
+MET activates PTK2 signaling	Platelet activation, signaling and aggregation	3	1.42857142857143
+MET activates PTK2 signaling	Cell surface interactions at the vascular wall	3	1.42857142857143
+MET activates PTK2 signaling	GPVI-mediated activation cascade	2	1.21428571428571
+MET activates PTK2 signaling	GP1b-IX-V activation signalling	2	1.21428571428571
+MET activates PTK2 signaling	Anchoring fibril formation	2	1.21428571428571
+MET activates PTK2 signaling	Crosslinking of collagen fibrils	2	1.21428571428571
+MET activates PTK2 signaling	Syndecan interactions	1	1
+CS/DS degradation	Keratan sulfate/keratin metabolism	2	1.21428571428571
+CS/DS degradation	Glycosphingolipid metabolism	2	1.21428571428571
+CS/DS degradation	Chondroitin sulfate/dermatan sulfate metabolism	4	1.64285714285714
+CS/DS degradation	Hyaluronan uptake and degradation	2	1.21428571428571
+CS/DS degradation	Hyaluronan metabolism	2	1.21428571428571
+CS/DS degradation	Metabolism of carbohydrates	4	1.64285714285714
+CS/DS degradation	Sphingolipid metabolism	2	1.21428571428571
+CS/DS degradation	Heparan sulfate/heparin (HS-GAG) metabolism	2	1.21428571428571
+CS/DS degradation	A tetrasaccharide linker sequence is required for GAG synthesis	2	1.21428571428571
+CS/DS degradation	Dermatan sulfate biosynthesis	2	1.21428571428571
+CS/DS degradation	Chondroitin sulfate biosynthesis	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	MET promotes cell motility	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Collagen chain trimerization	5	1.85714285714286
+Collagen biosynthesis and modifying enzymes	Non-integrin membrane-ECM interactions	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Platelet Aggregation (Plug Formation)	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Signaling by MET	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Platelet activation, signaling and aggregation	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Cell surface interactions at the vascular wall	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	GPVI-mediated activation cascade	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	GP1b-IX-V activation signalling	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Anchoring fibril formation	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Crosslinking of collagen fibrils	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	NCAM1 interactions	2	1.21428571428571
+Collagen biosynthesis and modifying enzymes	Signaling by PDGF	2	1.21428571428571
+Keratan sulfate/keratin metabolism	Glycosphingolipid metabolism	2	1.21428571428571
+Keratan sulfate/keratin metabolism	Chondroitin sulfate/dermatan sulfate metabolism	2	1.21428571428571
+Keratan sulfate/keratin metabolism	Hyaluronan uptake and degradation	2	1.21428571428571
+Keratan sulfate/keratin metabolism	Hyaluronan metabolism	2	1.21428571428571
+Keratan sulfate/keratin metabolism	Metabolism of carbohydrates	5	1.85714285714286
+Keratan sulfate/keratin metabolism	Sphingolipid metabolism	2	1.21428571428571
+Keratan sulfate/keratin metabolism	Keratan sulfate biosynthesis	3	1.42857142857143
+MET promotes cell motility	Collagen chain trimerization	2	1.21428571428571
+MET promotes cell motility	Non-integrin membrane-ECM interactions	3	1.42857142857143
+MET promotes cell motility	Post-translational protein phosphorylation	2	1.21428571428571
+MET promotes cell motility	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	2	1.21428571428571
+MET promotes cell motility	Platelet Adhesion to exposed collagen	2	1.21428571428571
+MET promotes cell motility	Platelet Aggregation (Plug Formation)	3	1.42857142857143
+MET promotes cell motility	Signaling by MET	5	1.85714285714286
+MET promotes cell motility	Platelet activation, signaling and aggregation	3	1.42857142857143
+MET promotes cell motility	Cell surface interactions at the vascular wall	3	1.42857142857143
+MET promotes cell motility	GPVI-mediated activation cascade	2	1.21428571428571
+MET promotes cell motility	GP1b-IX-V activation signalling	2	1.21428571428571
+MET promotes cell motility	Anchoring fibril formation	2	1.21428571428571
+MET promotes cell motility	Crosslinking of collagen fibrils	2	1.21428571428571
+MET promotes cell motility	Syndecan interactions	1	1
+Collagen chain trimerization	Non-integrin membrane-ECM interactions	2	1.21428571428571
+Collagen chain trimerization	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Collagen chain trimerization	Platelet Aggregation (Plug Formation)	2	1.21428571428571
+Collagen chain trimerization	Signaling by MET	2	1.21428571428571
+Collagen chain trimerization	Platelet activation, signaling and aggregation	2	1.21428571428571
+Collagen chain trimerization	Cell surface interactions at the vascular wall	2	1.21428571428571
+Collagen chain trimerization	GPVI-mediated activation cascade	2	1.21428571428571
+Collagen chain trimerization	GP1b-IX-V activation signalling	2	1.21428571428571
+Collagen chain trimerization	Anchoring fibril formation	2	1.21428571428571
+Collagen chain trimerization	Crosslinking of collagen fibrils	2	1.21428571428571
+Collagen chain trimerization	NCAM1 interactions	2	1.21428571428571
+Collagen chain trimerization	Signaling by PDGF	2	1.21428571428571
+Non-integrin membrane-ECM interactions	Post-translational protein phosphorylation	1	1
+Non-integrin membrane-ECM interactions	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	1	1
+Non-integrin membrane-ECM interactions	Chondroitin sulfate/dermatan sulfate metabolism	1	1
+Non-integrin membrane-ECM interactions	Platelet Adhesion to exposed collagen	2	1.21428571428571
+Non-integrin membrane-ECM interactions	Platelet Aggregation (Plug Formation)	3	1.42857142857143
+Non-integrin membrane-ECM interactions	Regulation of Complement cascade	1	1
+Non-integrin membrane-ECM interactions	Signaling by MET	3	1.42857142857143
+Non-integrin membrane-ECM interactions	Metabolism of carbohydrates	1	1
+Non-integrin membrane-ECM interactions	Complement cascade	1	1
+Non-integrin membrane-ECM interactions	Heparan sulfate/heparin (HS-GAG) metabolism	1	1
+Non-integrin membrane-ECM interactions	A tetrasaccharide linker sequence is required for GAG synthesis	1	1
+Non-integrin membrane-ECM interactions	Platelet activation, signaling and aggregation	3	1.42857142857143
+Non-integrin membrane-ECM interactions	Cell surface interactions at the vascular wall	3	1.42857142857143
+Non-integrin membrane-ECM interactions	GPVI-mediated activation cascade	2	1.21428571428571
+Non-integrin membrane-ECM interactions	GP1b-IX-V activation signalling	2	1.21428571428571
+Non-integrin membrane-ECM interactions	Anchoring fibril formation	2	1.21428571428571
+Non-integrin membrane-ECM interactions	Retinoid metabolism and transport	1	1
+Non-integrin membrane-ECM interactions	Metabolism of fat-soluble vitamins	1	1
+Non-integrin membrane-ECM interactions	Crosslinking of collagen fibrils	2	1.21428571428571
+Non-integrin membrane-ECM interactions	Syndecan interactions	2	1.21428571428571
+Non-integrin membrane-ECM interactions	HS-GAG degradation	1	1
+Glycosphingolipid metabolism	Chondroitin sulfate/dermatan sulfate metabolism	2	1.21428571428571
+Glycosphingolipid metabolism	Hyaluronan uptake and degradation	2	1.21428571428571
+Glycosphingolipid metabolism	Hyaluronan metabolism	2	1.21428571428571
+Glycosphingolipid metabolism	Metabolism of carbohydrates	2	1.21428571428571
+Glycosphingolipid metabolism	Sphingolipid metabolism	5	1.85714285714286
+Glycosphingolipid metabolism	Platelet activation, signaling and aggregation	1	1
+Glycosphingolipid metabolism	MHC class II antigen presentation	1	1
+Post-translational protein phosphorylation	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	7	2.28571428571429
+Post-translational protein phosphorylation	Plasma lipoprotein clearance	1	1
+Post-translational protein phosphorylation	Plasma lipoprotein assembly, remodeling, and clearance	1	1
+Post-translational protein phosphorylation	Platelet Aggregation (Plug Formation)	1	1
+Post-translational protein phosphorylation	Regulation of Complement cascade	1	1
+Post-translational protein phosphorylation	Signaling by MET	2	1.21428571428571
+Post-translational protein phosphorylation	Complement cascade	1	1
+Post-translational protein phosphorylation	Platelet activation, signaling and aggregation	1	1
+Post-translational protein phosphorylation	Cell surface interactions at the vascular wall	1	1
+Post-translational protein phosphorylation	Retinoid metabolism and transport	1	1
+Post-translational protein phosphorylation	Metabolism of fat-soluble vitamins	1	1
+Post-translational protein phosphorylation	Syndecan interactions	1	1
+Post-translational protein phosphorylation	Plasma lipoprotein assembly	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Plasma lipoprotein clearance	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Plasma lipoprotein assembly, remodeling, and clearance	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Platelet Aggregation (Plug Formation)	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Regulation of Complement cascade	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Signaling by MET	2	1.21428571428571
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Complement cascade	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Platelet activation, signaling and aggregation	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Cell surface interactions at the vascular wall	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Retinoid metabolism and transport	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Metabolism of fat-soluble vitamins	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Syndecan interactions	1	1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	Plasma lipoprotein assembly	1	1
+Chondroitin sulfate/dermatan sulfate metabolism	Hyaluronan uptake and degradation	2	1.21428571428571
+Chondroitin sulfate/dermatan sulfate metabolism	Hyaluronan metabolism	2	1.21428571428571
+Chondroitin sulfate/dermatan sulfate metabolism	Metabolism of carbohydrates	5	1.85714285714286
+Chondroitin sulfate/dermatan sulfate metabolism	Sphingolipid metabolism	2	1.21428571428571
+Chondroitin sulfate/dermatan sulfate metabolism	Heparan sulfate/heparin (HS-GAG) metabolism	3	1.42857142857143
+Chondroitin sulfate/dermatan sulfate metabolism	A tetrasaccharide linker sequence is required for GAG synthesis	3	1.42857142857143
+Chondroitin sulfate/dermatan sulfate metabolism	Dermatan sulfate biosynthesis	2	1.21428571428571
+Chondroitin sulfate/dermatan sulfate metabolism	Retinoid metabolism and transport	1	1
+Chondroitin sulfate/dermatan sulfate metabolism	Metabolism of fat-soluble vitamins	1	1
+Chondroitin sulfate/dermatan sulfate metabolism	Chondroitin sulfate biosynthesis	2	1.21428571428571
+Chondroitin sulfate/dermatan sulfate metabolism	HS-GAG degradation	1	1
+Platelet Adhesion to exposed collagen	Platelet Aggregation (Plug Formation)	2	1.21428571428571
+Platelet Adhesion to exposed collagen	Signaling by MET	2	1.21428571428571
+Platelet Adhesion to exposed collagen	Platelet activation, signaling and aggregation	3	1.42857142857143
+Platelet Adhesion to exposed collagen	Cell surface interactions at the vascular wall	3	1.42857142857143
+Platelet Adhesion to exposed collagen	GPVI-mediated activation cascade	3	1.42857142857143
+Platelet Adhesion to exposed collagen	GP1b-IX-V activation signalling	2	1.21428571428571
+Platelet Adhesion to exposed collagen	Anchoring fibril formation	2	1.21428571428571
+Platelet Adhesion to exposed collagen	Crosslinking of collagen fibrils	2	1.21428571428571
+Plasma lipoprotein clearance	Plasma lipoprotein assembly, remodeling, and clearance	4	1.64285714285714
+Plasma lipoprotein clearance	Retinoid metabolism and transport	1	1
+Plasma lipoprotein clearance	Metabolism of fat-soluble vitamins	1	1
+Plasma lipoprotein clearance	LDL clearance	2	1.21428571428571
+Plasma lipoprotein clearance	Plasma lipoprotein assembly	2	1.21428571428571
+Trafficking and processing of endosomal TLR	MHC class II antigen presentation	3	1.42857142857143
+Hyaluronan uptake and degradation	Hyaluronan metabolism	3	1.42857142857143
+Hyaluronan uptake and degradation	Metabolism of carbohydrates	3	1.42857142857143
+Hyaluronan uptake and degradation	Sphingolipid metabolism	2	1.21428571428571
+Hyaluronan uptake and degradation	Heparan sulfate/heparin (HS-GAG) metabolism	1	1
+Hyaluronan uptake and degradation	HS-GAG degradation	1	1
+Plasma lipoprotein assembly, remodeling, and clearance	Platelet activation, signaling and aggregation	1	1
+Plasma lipoprotein assembly, remodeling, and clearance	Retinoid metabolism and transport	1	1
+Plasma lipoprotein assembly, remodeling, and clearance	Metabolism of fat-soluble vitamins	1	1
+Plasma lipoprotein assembly, remodeling, and clearance	LDL clearance	2	1.21428571428571
+Plasma lipoprotein assembly, remodeling, and clearance	Signaling by PDGF	1	1
+Plasma lipoprotein assembly, remodeling, and clearance	Plasma lipoprotein assembly	2	1.21428571428571
+Platelet Aggregation (Plug Formation)	Regulation of Complement cascade	1	1
+Platelet Aggregation (Plug Formation)	Signaling by MET	3	1.42857142857143
+Platelet Aggregation (Plug Formation)	Complement cascade	1	1
+Platelet Aggregation (Plug Formation)	Platelet activation, signaling and aggregation	4	1.64285714285714
+Platelet Aggregation (Plug Formation)	Cell surface interactions at the vascular wall	4	1.64285714285714
+Platelet Aggregation (Plug Formation)	GPVI-mediated activation cascade	2	1.21428571428571
+Platelet Aggregation (Plug Formation)	GP1b-IX-V activation signalling	2	1.21428571428571
+Platelet Aggregation (Plug Formation)	Anchoring fibril formation	2	1.21428571428571
+Platelet Aggregation (Plug Formation)	Crosslinking of collagen fibrils	2	1.21428571428571
+Platelet Aggregation (Plug Formation)	Syndecan interactions	1	1
+Regulation of Complement cascade	Complement cascade	4	1.64285714285714
+Regulation of Complement cascade	Platelet activation, signaling and aggregation	1	1
+Regulation of Complement cascade	Cell surface interactions at the vascular wall	1	1
+Regulation of Complement cascade	Syndecan interactions	1	1
+Metabolism of steroid hormones	Phase I - Functionalization of compounds	2	1.21428571428571
+Metabolism of steroid hormones	Pregnenolone biosynthesis	2	1.21428571428571
+Metabolism of steroid hormones	Biological oxidations	2	1.21428571428571
+Hyaluronan metabolism	Metabolism of carbohydrates	3	1.42857142857143
+Hyaluronan metabolism	Sphingolipid metabolism	2	1.21428571428571
+Hyaluronan metabolism	Heparan sulfate/heparin (HS-GAG) metabolism	1	1
+Hyaluronan metabolism	HS-GAG degradation	1	1
+Signaling by MET	Platelet activation, signaling and aggregation	3	1.42857142857143
+Signaling by MET	Cell surface interactions at the vascular wall	3	1.42857142857143
+Signaling by MET	GPVI-mediated activation cascade	2	1.21428571428571
+Signaling by MET	GP1b-IX-V activation signalling	2	1.21428571428571
+Signaling by MET	Anchoring fibril formation	2	1.21428571428571
+Signaling by MET	Crosslinking of collagen fibrils	2	1.21428571428571
+Signaling by MET	Syndecan interactions	1	1
+Metabolism of carbohydrates	Sphingolipid metabolism	2	1.21428571428571
+Metabolism of carbohydrates	Heparan sulfate/heparin (HS-GAG) metabolism	4	1.64285714285714
+Metabolism of carbohydrates	A tetrasaccharide linker sequence is required for GAG synthesis	3	1.42857142857143
+Metabolism of carbohydrates	Keratan sulfate biosynthesis	3	1.42857142857143
+Metabolism of carbohydrates	Dermatan sulfate biosynthesis	2	1.21428571428571
+Metabolism of carbohydrates	Retinoid metabolism and transport	1	1
+Metabolism of carbohydrates	Metabolism of fat-soluble vitamins	1	1
+Metabolism of carbohydrates	Chondroitin sulfate biosynthesis	2	1.21428571428571
+Metabolism of carbohydrates	HS-GAG degradation	2	1.21428571428571
+Complement cascade	Platelet activation, signaling and aggregation	1	1
+Complement cascade	Cell surface interactions at the vascular wall	1	1
+Complement cascade	Syndecan interactions	1	1
+Sphingolipid metabolism	Platelet activation, signaling and aggregation	1	1
+Sphingolipid metabolism	MHC class II antigen presentation	1	1
+Heparan sulfate/heparin (HS-GAG) metabolism	A tetrasaccharide linker sequence is required for GAG synthesis	3	1.42857142857143
+Heparan sulfate/heparin (HS-GAG) metabolism	Dermatan sulfate biosynthesis	2	1.21428571428571
+Heparan sulfate/heparin (HS-GAG) metabolism	Retinoid metabolism and transport	1	1
+Heparan sulfate/heparin (HS-GAG) metabolism	Metabolism of fat-soluble vitamins	1	1
+Heparan sulfate/heparin (HS-GAG) metabolism	Chondroitin sulfate biosynthesis	2	1.21428571428571
+Heparan sulfate/heparin (HS-GAG) metabolism	HS-GAG degradation	2	1.21428571428571
+A tetrasaccharide linker sequence is required for GAG synthesis	Dermatan sulfate biosynthesis	2	1.21428571428571
+A tetrasaccharide linker sequence is required for GAG synthesis	Retinoid metabolism and transport	1	1
+A tetrasaccharide linker sequence is required for GAG synthesis	Metabolism of fat-soluble vitamins	1	1
+A tetrasaccharide linker sequence is required for GAG synthesis	Chondroitin sulfate biosynthesis	2	1.21428571428571
+A tetrasaccharide linker sequence is required for GAG synthesis	HS-GAG degradation	1	1
+Platelet activation, signaling and aggregation	Cell surface interactions at the vascular wall	5	1.85714285714286
+Platelet activation, signaling and aggregation	GPVI-mediated activation cascade	3	1.42857142857143
+Platelet activation, signaling and aggregation	GP1b-IX-V activation signalling	2	1.21428571428571
+Platelet activation, signaling and aggregation	Anchoring fibril formation	2	1.21428571428571
+Platelet activation, signaling and aggregation	Crosslinking of collagen fibrils	2	1.21428571428571
+Platelet activation, signaling and aggregation	Syndecan interactions	1	1
+Platelet activation, signaling and aggregation	Signaling by PDGF	1	1
+Phase I - Functionalization of compounds	Pregnenolone biosynthesis	2	1.21428571428571
+Phase I - Functionalization of compounds	Biological oxidations	5	1.85714285714286
+MHC class II antigen presentation	Metabolism of Angiotensinogen to Angiotensins	1	1
+Cell surface interactions at the vascular wall	GPVI-mediated activation cascade	3	1.42857142857143
+Cell surface interactions at the vascular wall	GP1b-IX-V activation signalling	2	1.21428571428571
+Cell surface interactions at the vascular wall	Anchoring fibril formation	2	1.21428571428571
+Cell surface interactions at the vascular wall	Crosslinking of collagen fibrils	2	1.21428571428571
+Cell surface interactions at the vascular wall	Syndecan interactions	1	1
+Dermatan sulfate biosynthesis	Chondroitin sulfate biosynthesis	2	1.21428571428571
+GPVI-mediated activation cascade	GP1b-IX-V activation signalling	2	1.21428571428571
+GPVI-mediated activation cascade	Anchoring fibril formation	2	1.21428571428571
+GPVI-mediated activation cascade	Crosslinking of collagen fibrils	2	1.21428571428571
+GP1b-IX-V activation signalling	Anchoring fibril formation	2	1.21428571428571
+GP1b-IX-V activation signalling	Crosslinking of collagen fibrils	2	1.21428571428571
+Pregnenolone biosynthesis	Biological oxidations	2	1.21428571428571
+Anchoring fibril formation	Crosslinking of collagen fibrils	2	1.21428571428571
+Apoptosis induced DNA fragmentation	Formation of Senescence-Associated Heterochromatin Foci (SAHF)	2	1.21428571428571
+Apoptosis induced DNA fragmentation	Apoptotic execution phase	2	1.21428571428571
+Retinoid metabolism and transport	Metabolism of fat-soluble vitamins	3	1.42857142857143
+Retinoid metabolism and transport	HS-GAG degradation	1	1
+Retinoid metabolism and transport	Plasma lipoprotein assembly	1	1
+Metabolism of fat-soluble vitamins	HS-GAG degradation	1	1
+Metabolism of fat-soluble vitamins	Plasma lipoprotein assembly	1	1
+Formation of Senescence-Associated Heterochromatin Foci (SAHF)	Apoptotic execution phase	2	1.21428571428571
+NCAM1 interactions	Signaling by PDGF	2	1.21428571428571

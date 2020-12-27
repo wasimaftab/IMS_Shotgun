@@ -1,0 +1,75 @@
+Source	Target	Edge_Attr	Mapped_Edge_Attr
+Processing of Capped Intron-Containing Pre-mRNA	Transcriptional Regulation by TP53	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	Transport of Mature Transcript to Cytoplasm	11	4
+Processing of Capped Intron-Containing Pre-mRNA	RNA Polymerase I Transcription Initiation	1	1
+Processing of Capped Intron-Containing Pre-mRNA	Formation of the Early Elongation Complex	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	RNA Polymerase II Transcription Termination	9	3.4
+Processing of Capped Intron-Containing Pre-mRNA	RNA Pol II CTD phosphorylation and interaction with CE	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	mRNA 3'-end processing	8	3.1
+Processing of Capped Intron-Containing Pre-mRNA	mRNA Capping	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	Transport of Mature mRNA derived from an Intron-Containing Transcript	9	3.4
+Processing of Capped Intron-Containing Pre-mRNA	TP53 Regulates Transcription of DNA Repair Genes	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	RNA Polymerase II Promoter Escape	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	RNA Polymerase II Transcription Initiation	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	RNA Polymerase II Transcription Initiation And Promoter Clearance	3	1.6
+Processing of Capped Intron-Containing Pre-mRNA	SUMOylation of DNA damage response and repair proteins	3	1.6
+Complex I biogenesis	Respiratory electron transport	10	3.7
+Complex I biogenesis	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	10	3.7
+Complex I biogenesis	The citric acid (TCA) cycle and respiratory electron transport	10	3.7
+Transcriptional Regulation by TP53	RNA Polymerase I Transcription Initiation	7	2.8
+Transcriptional Regulation by TP53	Formation of the Early Elongation Complex	7	2.8
+Transcriptional Regulation by TP53	RNA Pol II CTD phosphorylation and interaction with CE	6	2.5
+Transcriptional Regulation by TP53	mRNA Capping	6	2.5
+Transcriptional Regulation by TP53	TP53 Regulates Transcription of DNA Repair Genes	7	2.8
+Transcriptional Regulation by TP53	RNA Polymerase II Promoter Escape	6	2.5
+Transcriptional Regulation by TP53	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	6	2.5
+Transcriptional Regulation by TP53	RNA Polymerase II Transcription Initiation	6	2.5
+Transcriptional Regulation by TP53	RNA Polymerase II Transcription Initiation And Promoter Clearance	6	2.5
+Respiratory electron transport	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	10	3.7
+Respiratory electron transport	The citric acid (TCA) cycle and respiratory electron transport	10	3.7
+Transport of Mature Transcript to Cytoplasm	RNA Polymerase II Transcription Termination	8	3.1
+Transport of Mature Transcript to Cytoplasm	mRNA 3'-end processing	8	3.1
+Transport of Mature Transcript to Cytoplasm	Transport of Mature mRNA derived from an Intron-Containing Transcript	9	3.4
+Transport of Mature Transcript to Cytoplasm	SUMOylation of DNA damage response and repair proteins	3	1.6
+RNA Polymerase I Transcription Initiation	Formation of the Early Elongation Complex	4	1.9
+RNA Polymerase I Transcription Initiation	RNA Pol II CTD phosphorylation and interaction with CE	4	1.9
+RNA Polymerase I Transcription Initiation	mRNA Capping	4	1.9
+RNA Polymerase I Transcription Initiation	TP53 Regulates Transcription of DNA Repair Genes	4	1.9
+RNA Polymerase I Transcription Initiation	RNA Polymerase II Promoter Escape	4	1.9
+RNA Polymerase I Transcription Initiation	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	4	1.9
+RNA Polymerase I Transcription Initiation	RNA Polymerase II Transcription Initiation	4	1.9
+RNA Polymerase I Transcription Initiation	RNA Polymerase II Transcription Initiation And Promoter Clearance	4	1.9
+Formation of the Early Elongation Complex	RNA Pol II CTD phosphorylation and interaction with CE	6	2.5
+Formation of the Early Elongation Complex	mRNA Capping	6	2.5
+Formation of the Early Elongation Complex	TP53 Regulates Transcription of DNA Repair Genes	7	2.8
+Formation of the Early Elongation Complex	RNA Polymerase II Promoter Escape	6	2.5
+Formation of the Early Elongation Complex	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	6	2.5
+Formation of the Early Elongation Complex	RNA Polymerase II Transcription Initiation	6	2.5
+Formation of the Early Elongation Complex	RNA Polymerase II Transcription Initiation And Promoter Clearance	6	2.5
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	The citric acid (TCA) cycle and respiratory electron transport	11	4
+RNA Polymerase II Transcription Termination	mRNA 3'-end processing	8	3.1
+RNA Polymerase II Transcription Termination	Transport of Mature mRNA derived from an Intron-Containing Transcript	6	2.5
+RNA Pol II CTD phosphorylation and interaction with CE	mRNA Capping	6	2.5
+RNA Pol II CTD phosphorylation and interaction with CE	TP53 Regulates Transcription of DNA Repair Genes	6	2.5
+RNA Pol II CTD phosphorylation and interaction with CE	RNA Polymerase II Promoter Escape	6	2.5
+RNA Pol II CTD phosphorylation and interaction with CE	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	6	2.5
+RNA Pol II CTD phosphorylation and interaction with CE	RNA Polymerase II Transcription Initiation	6	2.5
+RNA Pol II CTD phosphorylation and interaction with CE	RNA Polymerase II Transcription Initiation And Promoter Clearance	6	2.5
+mRNA 3'-end processing	Transport of Mature mRNA derived from an Intron-Containing Transcript	6	2.5
+mRNA Capping	TP53 Regulates Transcription of DNA Repair Genes	6	2.5
+mRNA Capping	RNA Polymerase II Promoter Escape	6	2.5
+mRNA Capping	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	6	2.5
+mRNA Capping	RNA Polymerase II Transcription Initiation	6	2.5
+mRNA Capping	RNA Polymerase II Transcription Initiation And Promoter Clearance	6	2.5
+Transport of Mature mRNA derived from an Intron-Containing Transcript	SUMOylation of DNA damage response and repair proteins	3	1.6
+TP53 Regulates Transcription of DNA Repair Genes	RNA Polymerase II Promoter Escape	6	2.5
+TP53 Regulates Transcription of DNA Repair Genes	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	6	2.5
+TP53 Regulates Transcription of DNA Repair Genes	RNA Polymerase II Transcription Initiation	6	2.5
+TP53 Regulates Transcription of DNA Repair Genes	RNA Polymerase II Transcription Initiation And Promoter Clearance	6	2.5
+RNA Polymerase II Promoter Escape	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	7	2.8
+RNA Polymerase II Promoter Escape	RNA Polymerase II Transcription Initiation	7	2.8
+RNA Polymerase II Promoter Escape	RNA Polymerase II Transcription Initiation And Promoter Clearance	7	2.8
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	RNA Polymerase II Transcription Initiation	7	2.8
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	RNA Polymerase II Transcription Initiation And Promoter Clearance	7	2.8
+RNA Polymerase II Transcription Initiation	RNA Polymerase II Transcription Initiation And Promoter Clearance	7	2.8

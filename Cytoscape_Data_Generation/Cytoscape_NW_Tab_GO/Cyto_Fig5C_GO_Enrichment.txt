@@ -1,0 +1,64 @@
+Source	Target	Count
+Cct6a	fertilization	6
+Smcp	fertilization	6
+Spesp1	fertilization	6
+Clgn	fertilization	6
+Adam2	fertilization	6
+Mael	fertilization	6
+Cct6a	sperm-egg recognition	4
+Smcp	sperm-egg recognition	4
+Spesp1	sperm-egg recognition	4
+Clgn	sperm-egg recognition	4
+Cct6a	cell-cell recognition	4
+Smcp	cell-cell recognition	4
+Spesp1	cell-cell recognition	4
+Clgn	cell-cell recognition	4
+Cct6a	single fertilization	5
+Smcp	single fertilization	5
+Spesp1	single fertilization	5
+Clgn	single fertilization	5
+Adam2	single fertilization	5
+Odf2	cilium assembly	6
+Arl3	cilium assembly	6
+Lrrc46	cilium assembly	6
+Akap4	cilium assembly	6
+Tekt5	cilium assembly	6
+Ift122	cilium assembly	6
+Odf2	cilium organization	6
+Arl3	cilium organization	6
+Lrrc46	cilium organization	6
+Akap4	cilium organization	6
+Tekt5	cilium organization	6
+Ift122	cilium organization	6
+Cct6a	binding of sperm to zona pellucida	3
+Smcp	binding of sperm to zona pellucida	3
+Clgn	binding of sperm to zona pellucida	3
+Cct6a	cell recognition	4
+Smcp	cell recognition	4
+Spesp1	cell recognition	4
+Clgn	cell recognition	4
+Cct6a	protein folding	4
+Clgn	protein folding	4
+Dnajc3	protein folding	4
+Pdilt	protein folding	4
+Odf2	plasma membrane bounded cell projection assembly	6
+Arl3	plasma membrane bounded cell projection assembly	6
+Lrrc46	plasma membrane bounded cell projection assembly	6
+Akap4	plasma membrane bounded cell projection assembly	6
+Tekt5	plasma membrane bounded cell projection assembly	6
+Ift122	plasma membrane bounded cell projection assembly	6
+Eif4a1	cytoplasmic translation	3
+Rpl6	cytoplasmic translation	3
+Aars	cytoplasmic translation	3
+Odf2	cell projection assembly	6
+Arl3	cell projection assembly	6
+Lrrc46	cell projection assembly	6
+Akap4	cell projection assembly	6
+Tekt5	cell projection assembly	6
+Ift122	cell projection assembly	6
+Gtsf1	spermatogenesis	6
+Odf2	spermatogenesis	6
+Clgn	spermatogenesis	6
+Mael	spermatogenesis	6
+Pdilt	spermatogenesis	6
+Tdrp	spermatogenesis	6

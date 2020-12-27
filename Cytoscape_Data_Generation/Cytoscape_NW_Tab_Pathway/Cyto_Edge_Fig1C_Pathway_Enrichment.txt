@@ -1,0 +1,4 @@
+Source	Target	Edge_Attr	Mapped_Edge_Attr
+Androgen biosynthesis	Metabolism of steroid hormones	2	4
+Androgen biosynthesis	Metabolism of steroids	2	4
+Metabolism of steroid hormones	Metabolism of steroids	2	4

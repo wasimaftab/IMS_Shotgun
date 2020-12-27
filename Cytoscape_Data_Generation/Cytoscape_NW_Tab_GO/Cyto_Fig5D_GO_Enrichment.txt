@@ -1,0 +1,8 @@
+Source	Target	Count
+Ptpa	positive regulation of hydrolase activity	3
+Wdr35	positive regulation of hydrolase activity	3
+Dnajb11	positive regulation of hydrolase activity	3
+Hspa5	hindbrain structural organization	1
+Hspa5	cerebellum structural organization	1
+Hspa5	protein folding	2
+Dnajb11	protein folding	2

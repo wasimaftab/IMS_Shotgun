@@ -1,0 +1,13 @@
+Source	Target	Edge_Attr	Mapped_Edge_Attr
+Neutrophil degranulation	RHO GTPases Activate NADPH Oxidases	3	1.54545454545455
+Neutrophil degranulation	Platelet activation, signaling and aggregation	5	2.09090909090909
+Neutrophil degranulation	Platelet degranulation	3	1.54545454545455
+Neutrophil degranulation	Response to elevated platelet cytosolic Ca2+	3	1.54545454545455
+Neutrophil degranulation	Initial triggering of complement	1	1
+RHO GTPases Activate NADPH Oxidases	Platelet activation, signaling and aggregation	2	1.27272727272727
+Platelet activation, signaling and aggregation	Platelet degranulation	12	4
+Platelet activation, signaling and aggregation	Response to elevated platelet cytosolic Ca2+	12	4
+Platelet activation, signaling and aggregation	Initial triggering of complement	1	1
+Platelet degranulation	Response to elevated platelet cytosolic Ca2+	12	4
+Platelet degranulation	Initial triggering of complement	1	1
+Response to elevated platelet cytosolic Ca2+	Initial triggering of complement	1	1

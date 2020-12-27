@@ -1,0 +1,65 @@
+Description	p_adjust	Count	Mapped_Node_Attr
+Extracellular matrix organization	1.7536850486481e-14	23	25
+Degradation of the extracellular matrix	4.31299016244411e-11	15	21.1904761904762
+ECM proteoglycans	1.07953920278452e-08	9	18.3333333333333
+Integrin cell surface interactions	6.12134898106452e-07	9	18.3333333333333
+Keratan sulfate degradation	4.43616665191066e-06	5	16.4285714285714
+Neutrophil degranulation	7.30576579810741e-06	18	22.6190476190476
+Collagen degradation	7.30576579810741e-06	7	17.3809523809524
+Collagen formation	1.68578779815715e-05	8	17.8571428571429
+Assembly of collagen fibrils and other multimeric structures	1.81304507433842e-05	7	17.3809523809524
+Glycosaminoglycan metabolism	3.13837876843331e-05	9	18.3333333333333
+Laminin interactions	6.1217282795348e-05	5	16.4285714285714
+MET activates PTK2 signaling	6.96103797907145e-05	5	16.4285714285714
+CS/DS degradation	7.07668906593824e-05	4	15.952380952381
+Collagen biosynthesis and modifying enzymes	0.000191127899800056	6	16.9047619047619
+Keratan sulfate/keratin metabolism	0.000234007783523892	5	16.4285714285714
+MET promotes cell motility	0.000240234683559271	5	16.4285714285714
+Collagen chain trimerization	0.000240234683559271	5	16.4285714285714
+Non-integrin membrane-ECM interactions	0.000302736829198257	5	16.4285714285714
+Glycosphingolipid metabolism	0.000376073528649408	5	16.4285714285714
+Post-translational protein phosphorylation	0.00054998451264474	7	17.3809523809524
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	0.000718812514725799	7	17.3809523809524
+Chondroitin sulfate/dermatan sulfate metabolism	0.000749435357685008	5	16.4285714285714
+Platelet Adhesion to exposed collagen	0.00104037498700568	3	15.4761904761905
+Plasma lipoprotein clearance	0.00140774115377372	4	15.952380952381
+Trafficking and processing of endosomal TLR	0.00166359768405636	3	15.4761904761905
+Hyaluronan uptake and degradation	0.00166359768405636	3	15.4761904761905
+Plasma lipoprotein assembly, remodeling, and clearance	0.00190983918949407	5	16.4285714285714
+Platelet Aggregation (Plug Formation)	0.00261409033980742	4	15.952380952381
+Regulation of Complement cascade	0.00282858169404679	4	15.952380952381
+Metabolism of steroid hormones	0.00376998934511555	4	15.952380952381
+Hyaluronan metabolism	0.00416315905704199	3	15.4761904761905
+Signaling by MET	0.00450444245472524	5	16.4285714285714
+Metabolism of carbohydrates	0.0052249649951177	9	18.3333333333333
+Complement cascade	0.0063755569947869	4	15.952380952381
+Sphingolipid metabolism	0.00710162127669621	5	16.4285714285714
+Heparan sulfate/heparin (HS-GAG) metabolism	0.00769118378386812	4	15.952380952381
+A tetrasaccharide linker sequence is required for GAG synthesis	0.0097742509042909	3	15.4761904761905
+Platelet activation, signaling and aggregation	0.0097742509042909	8	17.8571428571429
+Phase I - Functionalization of compounds	0.0097742509042909	5	16.4285714285714
+Keratan sulfate biosynthesis	0.0129355492731312	3	15.4761904761905
+MHC class II antigen presentation	0.0149410539551583	5	16.4285714285714
+Cell surface interactions at the vascular wall	0.0213292014610367	5	16.4285714285714
+Dermatan sulfate biosynthesis	0.0218424258298246	2	15
+GPVI-mediated activation cascade	0.0229055405443159	3	15.4761904761905
+Triglyceride catabolism	0.0247974085097574	2	15
+GP1b-IX-V activation signalling	0.0247974085097574	2	15
+Pregnenolone biosynthesis	0.0283367967037815	2	15
+Anchoring fibril formation	0.0283367967037815	2	15
+Biological oxidations	0.0312645776108682	6	16.9047619047619
+Apoptosis induced DNA fragmentation	0.0319463515123576	2	15
+Retinoid metabolism and transport	0.0335221693935725	3	15.4761904761905
+Metabolism of Angiotensinogen to Angiotensins	0.0408306075703062	2	15
+Metabolism of fat-soluble vitamins	0.0417573297765854	3	15.4761904761905
+Crosslinking of collagen fibrils	0.0423019992051067	2	15
+Formation of Senescence-Associated Heterochromatin Foci (SAHF)	0.0423019992051067	2	15
+Syndecan interactions	0.0423019992051067	2	15
+LDL clearance	0.0423019992051067	2	15
+Chondroitin sulfate biosynthesis	0.0458122670275004	2	15
+NCAM1 interactions	0.0458122670275004	2	15
+Signaling by PDGF	0.0458122670275004	3	15.4761904761905
+Apoptotic execution phase	0.0458122670275004	3	15.4761904761905
+HS-GAG degradation	0.0474330684540073	2	15
+Purine catabolism	0.0474330684540073	2	15
+Plasma lipoprotein assembly	0.0474330684540073	2	15

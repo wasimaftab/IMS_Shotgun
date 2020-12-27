@@ -1,0 +1,22 @@
+Description	p_adjust	Count	Mapped_Node_Attr
+Processing of Capped Intron-Containing Pre-mRNA	0.00482864104086074	23	24.4444444444444
+Complex I biogenesis	0.00873208162007777	10	17.2222222222222
+Transcriptional Regulation by TP53	0.00873208162007777	24	25
+Respiratory electron transport	0.00881729866610663	10	17.2222222222222
+Transport of Mature Transcript to Cytoplasm	0.0111517582837485	11	17.7777777777778
+RNA Polymerase I Transcription Initiation	0.0130834159705845	8	16.1111111111111
+Formation of the Early Elongation Complex	0.016474176579475	7	15.5555555555556
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	0.016474176579475	11	17.7777777777778
+RNA Polymerase II Transcription Termination	0.0249922549474994	9	16.6666666666667
+RNA Pol II CTD phosphorylation and interaction with CE	0.0260805911109208	6	15
+mRNA 3'-end processing	0.0311465981295293	8	16.1111111111111
+mRNA Capping	0.0333699288097848	6	15
+Transport of Mature mRNA derived from an Intron-Containing Transcript	0.0361823670519038	9	16.6666666666667
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes	0.0361823670519038	6	15
+TP53 Regulates Transcription of DNA Repair Genes	0.0361823670519038	7	15.5555555555556
+RNA Polymerase II Promoter Escape	0.0361823670519038	7	15.5555555555556
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	0.0361823670519038	7	15.5555555555556
+RNA Polymerase II Transcription Initiation	0.0361823670519038	7	15.5555555555556
+RNA Polymerase II Transcription Initiation And Promoter Clearance	0.0361823670519038	7	15.5555555555556
+The citric acid (TCA) cycle and respiratory electron transport	0.0378817823678485	13	18.8888888888889
+SUMOylation of DNA damage response and repair proteins	0.0440103364126203	9	16.6666666666667

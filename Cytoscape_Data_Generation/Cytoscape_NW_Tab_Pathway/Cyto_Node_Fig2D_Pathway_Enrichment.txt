@@ -1,0 +1,7 @@
+Description	p_adjust	Count	Mapped_Node_Attr
+Neutrophil degranulation	0.000384569413366422	36	25
+RHO GTPases Activate NADPH Oxidases	0.0320960594083554	6	15.3225806451613
+Platelet activation, signaling and aggregation	0.0320960594083554	19	19.5161290322581
+Platelet degranulation	0.0320960594083554	12	17.258064516129
+Response to elevated platelet cytosolic Ca2+	0.0358657682361795	12	17.258064516129
+Initial triggering of complement	0.0358657682361795	5	15
